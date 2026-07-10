@@ -4,14 +4,14 @@
       "file": "/storage/emulated/0/learn/app/src/main/java/com/jaaDev/learn/MainActivity.kt",
       "selection": {
         "end": {
-          "column": 31,
-          "index": 2189,
-          "line": 69
+          "column": 16,
+          "index": 2638,
+          "line": 86
         },
         "start": {
-          "column": 31,
-          "index": 2189,
-          "line": 69
+          "column": 16,
+          "index": 2638,
+          "line": 86
         }
       }
     },
@@ -19,14 +19,44 @@
       "file": "/storage/emulated/0/learn/app/src/main/java/com/jaaDev/learn/ui/theme/Theme.kt",
       "selection": {
         "end": {
-          "column": 26,
-          "index": 1649,
-          "line": 54
+          "column": 0,
+          "index": 0,
+          "line": 0
         },
         "start": {
-          "column": 26,
-          "index": 1649,
-          "line": 54
+          "column": 0,
+          "index": 0,
+          "line": 0
+        }
+      }
+    },
+    {
+      "file": "/storage/emulated/0/learn/app/src/main/java/com/jaaDev/learn/ui/theme/Type.kt",
+      "selection": {
+        "end": {
+          "column": 0,
+          "index": 0,
+          "line": 0
+        },
+        "start": {
+          "column": 0,
+          "index": 0,
+          "line": 0
+        }
+      }
+    },
+    {
+      "file": "/storage/emulated/0/learn/app/src/main/java/com/jaaDev/learn/ui/theme/Color.kt",
+      "selection": {
+        "end": {
+          "column": 0,
+          "index": 0,
+          "line": 0
+        },
+        "start": {
+          "column": 0,
+          "index": 0,
+          "line": 0
         }
       }
     }
