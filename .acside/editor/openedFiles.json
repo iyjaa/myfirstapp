@@ -14,51 +14,6 @@
           "line": 86
         }
       }
-    },
-    {
-      "file": "/storage/emulated/0/learn/app/src/main/java/com/jaaDev/learn/ui/theme/Theme.kt",
-      "selection": {
-        "end": {
-          "column": 0,
-          "index": 0,
-          "line": 0
-        },
-        "start": {
-          "column": 0,
-          "index": 0,
-          "line": 0
-        }
-      }
-    },
-    {
-      "file": "/storage/emulated/0/learn/app/src/main/java/com/jaaDev/learn/ui/theme/Type.kt",
-      "selection": {
-        "end": {
-          "column": 0,
-          "index": 0,
-          "line": 0
-        },
-        "start": {
-          "column": 0,
-          "index": 0,
-          "line": 0
-        }
-      }
-    },
-    {
-      "file": "/storage/emulated/0/learn/app/src/main/java/com/jaaDev/learn/ui/theme/Color.kt",
-      "selection": {
-        "end": {
-          "column": 0,
-          "index": 0,
-          "line": 0
-        },
-        "start": {
-          "column": 0,
-          "index": 0,
-          "line": 0
-        }
-      }
     }
   ],
   "selectedFile": "/storage/emulated/0/learn/app/src/main/java/com/jaaDev/learn/MainActivity.kt"
