@@ -1,32 +1,32 @@
 {
   "allFiles": [
     {
-      "file": "/storage/emulated/0/learn/app/src/main/java/com/jaaDev/learn/ui/theme/Theme.kt",
+      "file": "/storage/emulated/0/learn/app/src/main/java/com/jaaDev/learn/MainActivity.kt",
       "selection": {
         "end": {
-          "column": 21,
-          "index": 812,
-          "line": 25
+          "column": 31,
+          "index": 2189,
+          "line": 69
         },
         "start": {
-          "column": 21,
-          "index": 812,
-          "line": 25
+          "column": 31,
+          "index": 2189,
+          "line": 69
         }
       }
     },
     {
-      "file": "/storage/emulated/0/learn/app/src/main/java/com/jaaDev/learn/MainActivity.kt",
+      "file": "/storage/emulated/0/learn/app/src/main/java/com/jaaDev/learn/ui/theme/Theme.kt",
       "selection": {
         "end": {
-          "column": 34,
-          "index": 490,
-          "line": 12
+          "column": 26,
+          "index": 1649,
+          "line": 54
         },
         "start": {
-          "column": 34,
-          "index": 490,
-          "line": 12
+          "column": 26,
+          "index": 1649,
+          "line": 54
         }
       }
     }
