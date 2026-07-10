@@ -10,7 +10,7 @@ import androidx.compose.material3.*
 import androidx.compose.runtime.*
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.unit.dp
-import com.jaaDev.learn.ui.theme.LearnTheme
+import com.jaaDev.learn.ui.theme.learnTheme
 
 // Data class buat 1 item todo
 data class TodoItem(val text: String, var isDone: Boolean = false)
@@ -19,7 +19,7 @@ class MainActivity : ComponentActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContent {
-            LearnTheme {
+            learnTheme {
                 Surface(modifier = Modifier.fillMaxSize()) {
                     TodoScreen()
                 }
